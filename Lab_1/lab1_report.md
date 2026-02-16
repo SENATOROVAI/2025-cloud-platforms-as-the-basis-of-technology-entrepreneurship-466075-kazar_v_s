@@ -11,7 +11,7 @@
 **Author:** Казар Владимир Сергеевич  
 **Lab:** Lab1  
 **Date of create:** 12.02.2026  
-**Date of finished:** 15.02.2026  
+**Date of finished:** -
 
 ---
 
